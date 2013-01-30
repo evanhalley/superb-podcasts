@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="@string/title_appearance"
+        android:summary="@string/summary_appearance"
+        android:title="@string/title_appearance" />
+    <Preference
+        android:key="@string/title_syncing"
+        android:summary="@string/summary_syncing"
+        android:title="@string/title_syncing" />
+    <Preference
+        android:key="@string/title_storage"
+        android:summary="@string/summary_storage"
+        android:title="@string/title_storage" />
+
+</PreferenceScreen>

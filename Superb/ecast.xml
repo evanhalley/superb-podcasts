@@ -1,0 +1,896 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    version="2.0" >
+
+    <channel>
+
+        <title>
+Test Podcast
+        </title>
+
+        <link>
+http://emuneee.com
+        </link>
+
+        <description>
+<![CDATA[Your first podcast of the week is the last word in tech. Join Leo Laporte, Patrick Norton, Kevin Rose, John C. Dvorak, and other tech luminaries in a roundtable discussion of the latest trends in digital technology. Winner of the 2005 People's Choice Podcast Award for best overall podcast and Best Technology Podcast. Released every Sunday at midnight Pacific.]]></description>
+
+        <generator>
+Feeder 2.3.4(1674); Mac OS X Version 10.6.8 (Build 10K549) http://reinventedsoftware.com/feeder/
+        </generator>
+
+        <docs>
+http://blogs.law.harvard.edu/tech/rss
+        </docs>
+
+        <language>
+en-us
+        </language>
+
+        <copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-ShareAlike - http://creativecommons.org/licenses/by-nc-sa/2.0/
+        </copyright>
+
+        <managingEditor>
+leo@leoville.com (Leo Laporte)
+        </managingEditor>
+
+        <webMaster>
+leo@leoville.com (Leo Laporte)
+        </webMaster>
+
+        <pubDate>
+Sun, 02 Sep 2012 18:17:35 -0700
+        </pubDate>
+
+        <lastBuildDate>
+Sun, 02 Sep 2012 18:17:35 -0700
+        </lastBuildDate>
+
+        <category>
+Technology
+        </category>
+
+        <ttl>
+720
+        </ttl>
+
+        <image>
+
+            <url>
+http://emuneee.com/images/evan/SAM_2539.jpg
+            </url>
+
+            <title>
+Evan Test Podcast
+            </title>
+
+            <link>
+http://emuneee.com
+            </link>
+
+            <width>
+138
+            </width>
+
+            <height>
+138
+            </height>
+        </image>
+
+        <atom:link
+            href="http://feeds.twit.tv/twit.xml"
+            rel="self"
+            type="application/rss+xml" />
+
+        <itunes:author>
+TWiT
+        </itunes:author>
+
+        <itunes:subtitle>
+Your first podcast of the week is the last word in tech. Join Leo Laporte, Patrick Norton, Kevin Rose, John C. Dvorak, and other tech luminaries in a roundtable discussion of the latest trends in digital tech.
+        </itunes:subtitle>
+
+        <itunes:summary>
+Your first podcast of the week is the last word in tech. Join Leo Laporte, Patrick Norton, Kevin Rose, John C. Dvorak, and other tech luminaries in a roundtable discussion of the latest trends in high tech. Winner of People's Choice Podcast and Best Technology Podcast in the 2005 People's Choice Podcast Awards. Released every Sunday at midnight Pacific.
+        </itunes:summary>
+
+        <itunes:keywords>
+twit, techtv, leo laporte, kevin rose, patrick norton, john c. dvorak
+        </itunes:keywords>
+
+        <itunes:image href="http://leoville.tv/podcasts/coverart/twit600audio.jpg" />
+
+        <itunes:explicit>
+no
+        </itunes:explicit>
+
+        <itunes:owner>
+
+            <itunes:name>
+Leo Laporte
+            </itunes:name>
+
+            <itunes:email>
+leo@leoville.com
+            </itunes:email>
+        </itunes:owner>
+
+        <itunes:block>
+no
+        </itunes:block>
+
+        <itunes:category text="Technology" >
+
+            <itunes:category text="Tech News" />
+        </itunes:category>
+
+        <item>
+
+            <title>
+TWiT 383: Mennonite Madness
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="https://twitter.com/patricknorton">Patrick Norton</a>, <a href="https://twitter.com/jolieodell">Jolie O'Dell</a>, and <a href="http://www.dvorak.org/blog/">John C. Dvorak</a>.</p><p>Tim Cook talks, G4 Esquire, assassins everywhere, Ingress data mine, badge lust, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_383">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:08:49</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 10 Dec 2012 05:52:20 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/383
+            </comments>
+
+            <guid isPermaLink="false" >
+595a2f06-e2d8-46dc-8472-7a0werew349a035-x3242343
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Tim Cook talks, G4 Esquire, assassins everywhere, Ingress data mine, badge lust, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Tim Cook talks, G4 Esquire, assassins everywhere, Ingress data mine, badge lust, and more.
+Hosts : Leo Laporte, Patrick Norton, Jolie O'Dell, and John C. Dvorak .
+
+Download or subscribe to this show at twit.tv/twit .
+For additional show notes, visit the wiki page for this episode .
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+Running time: 2:08:49
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:08:49
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0383.mp3
+            </link>
+
+            <enclosure
+                length="61961783"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0383.mp3" />
+
+            <media:content
+                filesize="61961783"
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0383.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 382: The Pump and Dump
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="https://twitter.com/Tim_Stevens">Tim Stevens</a>, <a href="https://plus.google.com/+MikeElgan/about">Mike Elgan</a>, and <a href="http://www.dvorak.org/blog/">John C. Dvorak</a>.</p><p>Third world cloud, PR $, Chromebook push, fly-touch, vacuum-packed gadgets, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_382">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 1:59:06</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 03 Dec 2012 05:23:06 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/382
+            </comments>
+
+            <guid isPermaLink="false" >
+15e919e3-c321-40fd-b821-405220dcd7a3
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Third world cloud, PR $, Chromebook push, fly-touch, vacuum-packed gadgets, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Third world cloud, PR $, Chromebook push, fly-touch, vacuum-packed gadgets, and more.
+Hosts : Leo Laporte, Tim Stevens, Mike Elgan, and John C. Dvorak .
+
+Download or subscribe to this show at twit.tv/twit .
+For additional show notes, visit the wiki page for this episode .
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+Running time: 1:59:06
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+1:59:06
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0382.mp3
+            </link>
+
+            <enclosure
+                length="57295477"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0382.mp3" />
+
+            <media:content
+                filesize="57295477"
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0382.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 381: The Metroid UI
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="https://twitter.com/markmilian">Mark Milian</a>, <a href="https://twitter.com/harrymccracken">Harry McCracken</a>, and <a href="https://twitter.com/mathewi">Mathew Ingram</a>.</p><p>The new Microsoft, FB's droidfooding, rage shake, Wii U, Apple stock, Twitter's value, UN takeover rumor, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_381">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 1:58:28</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 26 Nov 2012 05:33:36 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/381
+            </comments>
+
+            <guid isPermaLink="false" >
+6cb1994b-4348-4b06-a71c-c939299f9cc3
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+The new Microsoft, FB's droidfooding, rage shake, Wii U, Apple stock, Twitter's value, UN takeover rumor, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+The new Microsoft, FB's droidfooding, rage shake, Wii U, Apple stock, Twitter's value, UN takeover rumor, and more.
+Hosts : Leo Laporte, Mark Milian, Harry McCracken, and Mathew Ingram .
+
+Download or subscribe to this show at twit.tv/twit .
+For additional show notes, visit the wiki page for this episode .
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+Running time: 1:58:28
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+1:58:28
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0381.mp3
+            </link>
+
+            <enclosure
+                length="56990994"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0381.mp3" />
+
+            <media:content
+                filesize="56990994"
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0381.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 380: One Night Stand
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="https://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="https://twitter.com/shwood">Brian Brushwood</a>, <a href="https://twitter.com/JustinRYoung">Justin Robert Young</a>, and <a href="https://twitter.com/shiralazar">Shira Lazar</a>.</p><p>Sinofsky sayonara, gaming gangbusters, Wii U sales, trolling the trolls, leaky cloud, Hostess munchies, new life for car batteries, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_380">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:12:22</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 19 Nov 2012 07:51:47 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/380
+            </comments>
+
+            <guid isPermaLink="false" >
+976e42e6-9459-421d-bcae-d271af46487d
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Sinofsky sayonara, gaming gangbusters, Wii U sales, trolling the trolls, leaky cloud, Hostess munchies, new life for car batteries, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Sinofsky sayonara, gaming gangbusters, Wii U sales, trolling the trolls, leaky cloud, Hostess munchies, new life for car batteries, and more.
+Hosts : Fr. Robert Ballecer, Brian Brushwood, Justin Robert Young, and Shira Lazar .
+
+
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:12:22
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0380.mp3
+            </link>
+
+            <enclosure
+                length="63667056"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0380.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0380.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 379:  I Look at Yahoo, Okay?
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="https://twitter.com/sarahlane">Sarah Lane</a>, <a href="https://twitter.com/dlprager">David Prager</a>, and <a href="https://twitter.com/martinsargent">Martin Sargent</a>.</p><p>ARM expansion, Microsoft speech translator, iOS Office, election tweets, e-voting, Xbox SmartGlass, Yahoo redesign, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_379">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:03:33</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 12 Nov 2012 06:59:47 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/379
+            </comments>
+
+            <guid isPermaLink="false" >
+2838a087-a639-44d0-943c-1c5ae66d7fae
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+ARM expansion, Microsoft speech translator, iOS Office, election tweets, e-voting, Xbox SmartGlass, Yahoo redesign, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+ARM expansion, Microsoft speech translator, iOS Office, election tweets, e-voting, Xbox SmartGlass, Yahoo redesign, and more.
+Hosts : Sarah Lane, David Prager, and Martin Sargent .
+
+
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:03:33
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0379.mp3
+            </link>
+
+            <enclosure
+                length="59429786"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0379.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0379.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 378: Everyone Gets a Friendship Bracelet
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="http://www.baratunde.com/">Baratunde Thurston</a>, <a href="http://www.nickbilton.com/">Nick Bilton</a>, and <a href="http://shwood.squarespace.com/">Brian Brushwood</a>.</p><p>Social storm, skeuomorphic schism, Ballotpedia, channelled consumerism, Lucasfilm/Disney, the new philanthropy, the social digital nervous system, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_378">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:10:50</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 05 Nov 2012 23:48:49 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/378
+            </comments>
+
+            <guid isPermaLink="false" >
+bca0a614-788b-41f4-8488-8ef118e7caaf
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Social storm, skeuomorphic schism, Ballotpedia, channelled consumerism, Lucasfilm/Disney, the new philanthropy, the social digital nervous system, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Social storm, skeuomorphic schism, Ballotpedia, channelled consumerism, Lucasfilm/Disney, the new philanthropy, the social digital nervous system, and more.
+Hosts : Leo Laporte, Baratunde Thurston, Nick Bilton, and Brian Brushwood .
+
+
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:10:50
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0378.mp3
+            </link>
+
+            <enclosure
+                length="62933120"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0378.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0378.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 377: When Did I Like a Goat?
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="https://twitter.com/Snubs">Shannon Morse</a>, <a href="http://www.dvorak.org/blog/">John C. Dvorak</a>, and <a href="https://twitter.com/Scobleizer">Robert Scoble</a>.</p><p>Apple's updates, owning e-books, Microsoft's innovation, virtual donuts, self-publishing growth, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_377">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 1:56:34</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 29 Oct 2012 06:35:39 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/377
+            </comments>
+
+            <guid isPermaLink="false" >
+973500eb-d905-4e46-bd4f-81f6e1928c4e
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Apple's updates, owning e-books, Microsoft's innovation, virtual donuts, self-publishing growth, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Apple's updates, owning e-books, Microsoft's innovation, virtual donuts, self-publishing growth, and more.
+Hosts : Leo Laporte, Shannon Morse, John C. Dvorak, and Robert Scoble .
+
+
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+1:56:34
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0377.mp3
+            </link>
+
+            <enclosure
+                length="56077753"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0377.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0377.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 376: I Got Frisked
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="http://blog.chron.com/techblog/">Dwight Silverman</a>, <a href="http://www.dvorak.org/blog/">John C. Dvorak</a>, and <a href="http://www.jerrypournelle.com/jerrypournelle.c/chaosmanor/">Jerry Pournelle</a>.</p><p>iPad Mini, camera phone etiquette, Microsoft Surface, throw-away computer, easier blackmail, 20" tablet, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_376">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:19:15</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 22 Oct 2012 04:56:37 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/376
+            </comments>
+
+            <guid isPermaLink="false" >
+465520d2-4707-462d-8a79-bc42534ba41a
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+iPad Mini, camera phone etiquette, Microsoft Surface, throw-away computer, easier blackmail, 20" tablet, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+iPad Mini, camera phone etiquette, Microsoft Surface, throw-away computer, easier blackmail, 20" tablet, and more.
+Hosts : Leo Laporte, Dwight Silverman, John C. Dvorak, and Jerry Pournelle .
+
+
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:19:15
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0376.mp3
+            </link>
+
+            <enclosure
+                length="66967053"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0376.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0376.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 375: Beware of the Leopard
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="http://www.jasonhiner.com/">Jason Hiner</a>, <a href="http://craphound.com/">Cory Doctorow</a>, and <a href="http://www.larrysworld.com/about/">Larry Magid</a>.</p><p>Near space ad, iPhone gripe hype, EULA avoidance, data estates, Sprint sale, 3-D DRM, and more.</p><p><b>Guest</b>: <a href="http://www.youtube.com/user/scottdgillies">Scott Gillies</a>.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_375">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:07:13</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 15 Oct 2012 21:41:55 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/375
+            </comments>
+
+            <guid isPermaLink="false" >
+fbc64154-dbec-4bcd-ac55-56966002ca52
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Near space ad, iPhone gripe hype, EULA avoidance, data estates, Sprint sale, 3-D DRM, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Near space ad, iPhone gripe hype, EULA avoidance, data estates, Sprint sale, 3-D DRM, and more.
+Hosts : Leo Laporte, Jason Hiner, Cory Doctorow, and Larry Magid .
+
+
+
+ Guest : Scott Gillies .
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:07:13
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0375.mp3
+            </link>
+
+            <enclosure
+                length="61195664"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0375.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0375.mp3" />
+        </item>
+
+        <item>
+
+            <title>
+TWiT 374: One Shwood Short of a DragonCon Panel
+            </title>
+
+            <description>
+<![CDATA[<p><img src="http://feeds.twit.tv/coverart/twit144audio.jpg" align=right hspace=20 vspace=20 border=0 title="TWiT"/></p><p><b>Hosts</b>: <a href="http://www.leoville.com">Leo Laporte</a>, <a href="https://twitter.com/acedtect">Tom Meritt</a>, <a href="http://twitter.com/JustinRYoung">Justin Robert Young</a>, and <a href="http://twitter.com/Veronica">Veronica Belmont</a>.</p><p>Perspective on Steve Jobs , new TV paradigm, pop-up Microsoft stores, great games, ultrabook undefined, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twit">twit.tv/twit</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/TWiT_374">the wiki page for this episode</a>.</p><p>Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at <a href="http://www.winamp.com/android">Winamp.com/Android</a>.</p><p><b>Running time:</b>: 2:03:52</p>]]></description>
+
+            <author>
+leo@leoville.com (Leo Laporte)
+            </author>
+
+            <pubDate>
+Mon, 08 Oct 2012 22:47:36 -0000
+            </pubDate>
+
+            <category>
+Gadgets
+            </category>
+
+            <category>
+Tech News
+            </category>
+
+            <comments>
+http://twit.tv/twit/374
+            </comments>
+
+            <guid isPermaLink="false" >
+dc99df22-728e-4fc1-940a-3ea68180b004
+            </guid>
+
+            <itunes:author>
+TWiT
+            </itunes:author>
+
+            <itunes:subtitle>
+Perspective on Steve Jobs , new TV paradigm, pop-up Microsoft stores, great games, ultrabook undefined, and more.
+            </itunes:subtitle>
+
+            <itunes:summary>
+Perspective on Steve Jobs , new TV paradigm, pop-up Microsoft stores, great games, ultrabook undefined, and more.
+Hosts : Leo Laporte, Tom Meritt, Justin Robert Young, and Veronica Belmont .
+
+Perspective on Steve Jobs, new TV paradigm, pop-up Microsoft stores, great games, ultrabook undefined, and more.
+
+Download or subscribe to this show at twit.tv/twit .
+
+For additional show notes, visit the wiki page for this episode .
+
+Audio bandwidth for This Week in Tech is provided by Winamp for Android... featuring wireless sync and one-click iTunes import. Now with FREE daily music downloads and full length CD listening parties. Download it for free at Winamp.com/Android .
+            </itunes:summary>
+
+            <itunes:explicit>
+no
+            </itunes:explicit>
+
+            <itunes:duration>
+2:03:52
+            </itunes:duration>
+
+            <link>
+http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0374.mp3
+            </link>
+
+            <enclosure
+                length="59585058"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0374.mp3" />
+
+            <media:content
+                medium="audio"
+                type="audio/mpeg"
+                url="http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/twit/twit0374.mp3" />
+        </item>
+    </channel>
+
+</rss>

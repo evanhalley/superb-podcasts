@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="title_episode_storage"
+        android:title="@string/title_episode_storage" >
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/pref_episodes_to_store_entries"
+            android:entryValues="@array/pref_episodes_to_store_values"
+            android:key="@string/key_number_episodes_to_store"
+            android:summary="@string/summary_number_episodes_to_store"
+            android:title="@string/title_number_episodes_to_store" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_delete_after_finishing"
+            android:summary="@string/summary_delete_after_finishing"
+            android:title="@string/title_delete_after_finishing" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

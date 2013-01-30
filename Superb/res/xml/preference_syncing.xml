@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="category_background_sync"
+        android:title="@string/title_background_sync" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_enable_background_sync"
+            android:summary="@string/summary_enable_background_sync"
+            android:title="@string/title_enable_background_sync" />
+
+        <ListPreference
+            android:defaultValue="4"
+            android:entries="@array/pref_sync_interval_entries"
+            android:entryValues="@array/pref_sync_interval_values"
+            android:key="@string/key_sync_interval"
+            android:summary="@string/summary_sync_interval"
+            android:title="@string/title_sync_interval" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_enable_notifications"
+            android:summary="@string/summary_enable_notifications"
+            android:title="@string/title_enable_notifications" />
+
+        <Preference
+            android:key="@string/key_notification_sound"
+            android:title="@string/title_notification_sound" />
+        <Preference
+            android:key="@string/key_notification_vibrate"
+            android:title="@string/title_notification_vibrate" />
+        <Preference
+            android:key="@string/key_notification_light"
+            android:title="@string/title_notification_light" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="category_downloading"
+        android:title="@string/category_auto_download" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_auto_download"
+            android:summary="@string/summary_auto_download"
+            android:title="@string/title_auto_download" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_download_wifi_only"
+            android:summary="@string/summary_download_wifi_only"
+            android:title="@string/title_download_wifi_only" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_download_while_roaming"
+            android:summary="@string/summary_download_while_roaming"
+            android:title="@string/title_download_while_roaming" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

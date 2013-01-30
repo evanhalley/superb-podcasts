@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Superb</string>
+    <string name="player_service_name">Superb Player Service</string>
+    <string name="update_service_name">Superb Updater Service</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_add_channel">Add Channel</string>
+    <string name="menu_show_playlist">Show Playlist</string>
+    <string name="menu_show_player">Show Player</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_all_episodes">All Episodes</string>
+    <string name="import_channel_dialog_title">Choose a source</string>
+    <string name="button_import">Import</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string-array name="import_channel_sources">
+        <item>Podcast URL</item>
+        <item>OPML File</item>
+        <item>Google Reader</item>
+    </string-array>
+    <string-array name="episode_long_press">
+        <item>Add to playlist</item>
+        <item>Delete</item>
+        <item>Download</item>
+    </string-array>
+
+    <string name="podcast_url_instruction">Enter a url</string>
+    <string name="podcast_url_hint">http://channel.com/podcast.xml</string>
+    <string name="dialog_importing_title">Importing</string>
+    <string name="dialog_importing_message">Please wait</string>
+    <string name="message_please_enter_url">Please enter a valid url</string>
+    <string name="notification_new_episodes_title">new episodes available</string>
+
+    
+
+</resources>

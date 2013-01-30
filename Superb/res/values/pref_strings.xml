@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- preference strings -->
+    <string name="title_appearance">Appearance</string>
+    <string name="summary_appearance">Tailor the look and feel of Superb</string>
+    <string name="title_syncing">Syncing</string>
+    <string name="summary_syncing">Setup Superb to sync podcasts on your schedule</string>
+    <string name="title_storage">Storage</string>
+    <string name="summary_storage">Tell Superb how much space you would like it to use</string>
+    <!--  -->
+    <string name="title_background_sync">Background Syncing</string>
+    <string name="title_enable_background_sync">Enable Background Syncing</string>
+    <string name="summary_enable_background_sync">Enable background syncing to allow Superb to automatically check for new episodes</string>
+    <string name="key_enable_background_sync">enable_background_sync</string>
+    <string name="title_sync_interval">Sync Interval</string>
+
+    <string-array name="pref_sync_interval_entries">
+        <item>Every 15 minutes</item>
+        <item>Every 30 minutes</item>
+        <item>Every hour</item>
+        <item>Every 2 hours</item>
+        <item>Every 4 hours</item>
+        <item>Every 8 hours</item>
+        <item>Once per day</item>
+    </string-array>
+    <string-array name="pref_sync_interval_values">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        <item>96</item>
+    </string-array>
+
+    <string name="summary_sync_interval">The interval at which Superb will check for new episodes</string>
+    <string name="key_sync_interval">sync_interval</string>
+    <string name="title_enable_notifications">Enable Notifications</string>
+    <string name="summary_enable_notifications">Allow Superb to alert you when new episodes are available</string>
+    <string name="key_enable_notifications">enable_notifications</string>
+    <string name="title_notification_sound">Sound</string>
+    <string name="key_notification_sound">notification_sound</string>
+    <string name="title_notification_vibrate">Vibrate</string>
+    <string name="key_notification_vibrate">notification_vibrate</string>
+    <string name="title_notification_light">Light</string>
+    <string name="key_notification_light">notification_light</string>
+    <string name="category_auto_download">Downloading</string>
+    <string name="title_auto_download">Auto-Download Episodes</string>
+    <string name="summary_auto_download">Automatically download new episodes</string>
+    <string name="key_auto_download">auto_download</string>
+    <string name="title_download_wifi_only">Download on Wifi Only</string>
+    <string name="summary_download_wifi_only">Download episodes only when connected to a Wi-Fi network</string>
+    <string name="key_download_wifi_only">wifi_only</string>
+    <string name="title_download_while_roaming">Download While Roaming</string>
+    <string name="summary_download_while_roaming">Downloading while roaming may lead to extra charges</string>
+    <string name="key_download_while_roaming">download_while_roaming</string>
+    <!--  -->
+    <string name="title_episode_storage">Episode Storage</string>
+    <string name="title_number_episodes_to_store">Number of Episodes to Store</string>
+    <string name="summary_number_episodes_to_store">The number of episodes, per channel, to keep stored on your device</string>
+    <string name="key_number_episodes_to_store">number_episodes_to_store</string>
+    <string name="title_delete_after_finishing">Delete Episodes After Finishing</string>
+    <string name="summary_delete_after_finishing">Delete an episode once it has been finished</string>
+    <string name="key_delete_after_finishing">delete_after_finishing</string>
+
+    <string-array name="pref_episodes_to_store_entries">
+        <item>1 Episode</item>
+        <item>2 Episodes</item>
+        <item>3 Episodes</item>
+        <item>5 Episodes</item>
+        <item>10 Episodes</item>
+    </string-array>
+    <string-array name="pref_episodes_to_store_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

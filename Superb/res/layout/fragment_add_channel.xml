@@ -8,7 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/podcast_url_instruction"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
         android:id="@+id/edit_text_podcast_url"
@@ -43,7 +43,7 @@
             android:layout_toRightOf="@+id/image_view_google_reader"
             android:gravity="center_vertical"
             android:text="@string/label_import_google_reader"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceMedium" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -66,7 +66,7 @@
             android:layout_toRightOf="@+id/image_view_opml"
             android:gravity="center_vertical"
             android:text="@string/label_import_opml"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceMedium" />
     </RelativeLayout>
 
 </LinearLayout>

@@ -25,13 +25,14 @@
         <item>Download</item>
     </string-array>
 
-    <string name="podcast_url_instruction">Enter a url</string>
+    <string name="podcast_url_instruction">From a URL</string>
     <string name="podcast_url_hint">http://channel.com/podcast.xml</string>
     <string name="dialog_importing_title">Importing</string>
     <string name="dialog_importing_message">Please wait</string>
     <string name="message_please_enter_url">Please enter a valid url</string>
     <string name="notification_new_episodes_title">new episodes available</string>
-
-    
+    <string name="label_import_google_reader">From Google Reader</string>
+    <string name="label_import_opml">From OPML file</string>
+    <string name="title_add_channel_dialog">Import Channel</string>
 
 </resources>

@@ -22,8 +22,10 @@ import com.slidingmenu.lib.SlidingMenu;
 import com.slidingmenu.lib.app.SlidingActivity;
 
 import android.app.AlertDialog;
+import android.app.DialogFragment;
 import android.app.Fragment;
 import android.app.FragmentManager;
+import android.app.FragmentTransaction;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -55,7 +57,7 @@ public abstract class EpisodeFragment extends Fragment implements
 	protected SlidingMenu mSlidingMenu;
 	protected OrderBy mOrderBy = OrderBy.PUBLISHED_DSC;
 	protected MainActivity mMainActivity;
-	
+
 	public abstract void update();
 
 	@Override
@@ -129,8 +131,19 @@ public abstract class EpisodeFragment extends Fragment implements
 			update();
 			break;
 		case R.id.menu_add_channel:
-			ImportChannelDialogManager
-					.showChannelUrlDialog(getActivity(), this);
+			FragmentTransaction ft = getFragmentManager().beginTransaction();
+			Fragment prev = getFragmentManager().findFragmentByTag("dialog");
+			if (prev != null) {
+				ft.remove(prev);
+			}
+			ft.addToBackStack(null);
+
+			// Create and show the dialog.
+			DialogFragment newFragment = new AddChannelFragment();
+			newFragment.show(ft, "dialog");
+			
+			//ImportChannelDialogManager
+			//		.showChannelUrlDialog(getActivity(), this);
 			break;
 		}
 
@@ -140,17 +153,18 @@ public abstract class EpisodeFragment extends Fragment implements
 	@Override
 	public void onChannelImport(String channelUrl) {
 		ImportChannelTask task = new ImportChannelTask(mMainActivity,
-				channelUrl, new AddChannelTaskListener((MainActivity) getActivity()));
+				channelUrl, new AddChannelTaskListener(
+						(MainActivity) getActivity()));
 		task.execute();
 	}
-	
+
 	private class AddChannelTaskListener implements TaskListener<Boolean> {
 		private MainActivity mMainActivity;
 
 		public AddChannelTaskListener(MainActivity mainActivity) {
 			mMainActivity = mainActivity;
 		}
-		
+
 		@Override
 		public void onPostExecute(Boolean result) {
 			if (result) {

@@ -60,7 +60,7 @@ public class ImportChannelDialogManager {
 		AlertDialog.Builder builder = new AlertDialog.Builder(context);
 		LayoutInflater inflater = (LayoutInflater) context
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-		View view = inflater.inflate(R.layout.dialog_podcast_url, null);
+		View view = inflater.inflate(R.layout.fragment_add_channel, null);
 		final EditText editTextChannelUrl = (EditText) view
 				.findViewById(R.id.edit_text_podcast_url);
 		builder.setView(view);
